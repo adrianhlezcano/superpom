@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:yweather="http://xml.weather.yahoo.com/ns/rss/1.0" version="2.0">
+   <channel>
+      <title>Yahoo! Weather - New York, NY</title>
+      <link>http://us.rd.yahoo.com/dailynews/rss/weather/New_York__NY/*http://weather.yahoo.com/forecast/USNY0996_f.html</link>
+      <description>Yahoo! Weather for New York, NY</description>
+      <language>en-us</language>
+      <lastBuildDate>Wed, 21 May 2014 8:49 pm EDT</lastBuildDate>
+      <ttl>60</ttl>
+      <yweather:location city="New York" region="NY" country="US" />
+      <yweather:units temperature="F" distance="mi" pressure="in" speed="mph" />
+      <yweather:wind chill="68" direction="0" speed="0" />
+      <yweather:atmosphere humidity="45" visibility="10" pressure="29.93" rising="2" />
+      <yweather:astronomy sunrise="5:31 am" sunset="8:10 pm" />
+      <image>
+         <title>Yahoo! Weather</title>
+         <width>142</width>
+         <height>18</height>
+         <link>http://weather.yahoo.com</link>
+         <url>http://l.yimg.com/a/i/brand/purplelogo//uh/us/news-wea.gif</url>
+      </image>
+      <item>
+         <title>Conditions for New York, NY at 8:49 pm EDT</title>
+         <geo:lat>40.67</geo:lat>
+         <geo:long>-73.94</geo:long>
+         <link>http://us.rd.yahoo.com/dailynews/rss/weather/New_York__NY/*http://weather.yahoo.com/forecast/USNY0996_f.html</link>
+         <pubDate>Wed, 21 May 2014 8:49 pm EDT</pubDate>
+         <yweather:condition text="Cloudy" code="26" temp="68" date="Wed, 21 May 2014 8:49 pm EDT" />
+         <description><![CDATA[<img src="http://l.yimg.com/a/i/us/we/52/26.gif"/><br />
+<b>Current Conditions:</b><br />
+Cloudy, 68 F<BR />
+<BR /><b>Forecast:</b><BR />
+Wed - Showers. High: 71 Low: 59<br />
+Thu - Thundershowers. High: 63 Low: 57<br />
+Fri - Showers. High: 62 Low: 54<br />
+Sat - Showers. High: 68 Low: 57<br />
+Sun - Partly Cloudy. High: 71 Low: 60<br />
+<br />
+<a href="http://us.rd.yahoo.com/dailynews/rss/weather/New_York__NY/*http://weather.yahoo.com/forecast/USNY0996_f.html">Full Forecast at Yahoo! Weather</a><BR/><BR/>
+(provided by <a href="http://www.weather.com" >The Weather Channel</a>)<br/>]]></description>
+         <yweather:forecast day="Wed" date="21 May 2014" low="59" high="71" text="Showers" code="11" />
+         <yweather:forecast day="Thu" date="22 May 2014" low="57" high="63" text="Thundershowers" code="11" />
+         <yweather:forecast day="Fri" date="23 May 2014" low="54" high="62" text="Showers" code="11" />
+         <yweather:forecast day="Sat" date="24 May 2014" low="57" high="68" text="Showers" code="11" />
+         <yweather:forecast day="Sun" date="25 May 2014" low="60" high="71" text="Partly Cloudy" code="30" />
+         <guid isPermaLink="false">USNY0996_2014_05_25_7_00_EDT</guid>
+      </item>
+   </channel>
+</rss>
