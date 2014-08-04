@@ -1,14 +1,14 @@
-Sat May 31 22:13:16 ART 2014  [debug] AvalonLogChute initialized using file 'velocity.log'
-Sat May 31 22:13:16 ART 2014  [debug] Velocity was not initialized! Calling init()...
-Sat May 31 22:13:16 ART 2014  [trace] *******************************************************************
-Sat May 31 22:13:16 ART 2014  [debug] Starting Apache Velocity v1.5 (compiled: 2007-02-22 08:52:29)
-Sat May 31 22:13:16 ART 2014  [trace] RuntimeInstance initializing.
-Sat May 31 22:13:16 ART 2014  [debug] Default Properties File: org/apache/velocity/runtime/defaults/velocity.properties
-Sat May 31 22:13:16 ART 2014  [debug] Trying to use logger class org.apache.velocity.runtime.log.AvalonLogChute
-Sat May 31 22:13:16 ART 2014  [debug] Using logger class org.apache.velocity.runtime.log.AvalonLogChute
-Sat May 31 22:13:16 ART 2014  [debug] Default ResourceManager initializing. (class org.apache.velocity.runtime.resource.ResourceManagerImpl)
-Sat May 31 22:13:16 ART 2014  [debug] ResourceLoader instantiated: org.apache.velocity.runtime.resource.loader.FileResourceLoader
-Sat May 31 22:13:16 ART 2014  [trace] FileResourceLoader : initialization starting.
-Sat May 31 22:13:16 ART 2014  [debug] Do unicode file recognition:  false
-Sat May 31 22:13:16 ART 2014   [info] FileResourceLoader : adding path '.'
-Sat May 31 22:13:16 ART 2014  [trace] FileResourceLoader : initialization complete.
+Mon Jun 02 19:01:35 ART 2014  [debug] AvalonLogChute initialized using file 'velocity.log'
+Mon Jun 02 19:01:35 ART 2014  [debug] Velocity was not initialized! Calling init()...
+Mon Jun 02 19:01:35 ART 2014  [trace] *******************************************************************
+Mon Jun 02 19:01:35 ART 2014  [debug] Starting Apache Velocity v1.5 (compiled: 2007-02-22 08:52:29)
+Mon Jun 02 19:01:35 ART 2014  [trace] RuntimeInstance initializing.
+Mon Jun 02 19:01:35 ART 2014  [debug] Default Properties File: org/apache/velocity/runtime/defaults/velocity.properties
+Mon Jun 02 19:01:35 ART 2014  [debug] Trying to use logger class org.apache.velocity.runtime.log.AvalonLogChute
+Mon Jun 02 19:01:35 ART 2014  [debug] Using logger class org.apache.velocity.runtime.log.AvalonLogChute
+Mon Jun 02 19:01:35 ART 2014  [debug] Default ResourceManager initializing. (class org.apache.velocity.runtime.resource.ResourceManagerImpl)
+Mon Jun 02 19:01:35 ART 2014  [debug] ResourceLoader instantiated: org.apache.velocity.runtime.resource.loader.FileResourceLoader
+Mon Jun 02 19:01:35 ART 2014  [trace] FileResourceLoader : initialization starting.
+Mon Jun 02 19:01:35 ART 2014  [debug] Do unicode file recognition:  false
+Mon Jun 02 19:01:35 ART 2014   [info] FileResourceLoader : adding path '.'
+Mon Jun 02 19:01:35 ART 2014  [trace] FileResourceLoader : initialization complete.

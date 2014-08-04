@@ -13,30 +13,9 @@
   <url>http://maven.apache.org</url>
   <dependencies>
   	<dependency>
-  		<groupId>org.sonatype.mavenbook.multispring</groupId>
+  		<groupId>${project.groupId}</groupId>
   		<artifactId>simple-model</artifactId>
-  		<version>1.0</version>
-  	</dependency>
-  	<dependency>
-  		<groupId>org.hibernate</groupId>
-  		<artifactId>hibernate</artifactId>
-  		<version>3.2.5.ga</version>
-  		<exclusions>
-  			<exclusion>
-  				<groupId>javax.transaction</groupId>
-  				<artifactId>jta</artifactId>
-  			</exclusion>
-  		</exclusions>
-  	</dependency>
-  	<dependency>
-  		<groupId>org.hibernate</groupId>
-  		<artifactId>hibernate-annotations</artifactId>
-  		<version>3.3.0.ga</version>
-  	</dependency>
-  	<dependency>
-  		<groupId>org.hibernate</groupId>
-  		<artifactId>hibernate-commons-annotations</artifactId>
-  		<version>3.3.0.ga</version>
+  		<version>${project.version}</version>
   	</dependency>
   	<dependency>
   		<groupId>javax.servlet</groupId>
@@ -45,9 +24,20 @@
   		<scope>provided</scope>
   	</dependency>
   	<dependency>
+  		<groupId>org.hibernate</groupId>
+  		<artifactId>hibernate</artifactId>
+  	</dependency>
+  	<dependency>
+  		<groupId>org.hibernate</groupId>
+  		<artifactId>hibernate-annotations</artifactId>
+  	</dependency>
+  	<dependency>
+  		<groupId>org.hibernate</groupId>
+  		<artifactId>hibernate-commons-annotations</artifactId>
+  	</dependency>
+  	<dependency>
   		<groupId>org.springframework</groupId>
   		<artifactId>spring</artifactId>
-  		<version>2.0.7</version>
   	</dependency>
   </dependencies>
 </project>

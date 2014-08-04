@@ -8,19 +8,20 @@
     <version>1.0</version>
   </parent>
   <artifactId>simple-model</artifactId>
-  
-  <name>simple-model</name>
+  <name>Simple Model</name>
   <url>http://maven.apache.org</url>
   <dependencies>
-	<dependency>
-		<groupId>org.hibernate</groupId>
-		<artifactId>hibernate-annotations</artifactId>
-		<version>3.5.6-Final</version>
-	</dependency>
-	<dependency>
-		<groupId>org.hibernate</groupId>
-		<artifactId>hibernate-commons-annotations</artifactId>
-		<version>3.2.0.Final</version>
-	</dependency>
+    <dependency>
+      <groupId>org.hibernate</groupId>
+      <artifactId>hibernate-annotations</artifactId>
+    </dependency>
+    <dependency>
+      <groupId>org.hibernate</groupId>
+      <artifactId>hibernate</artifactId>
+    </dependency>
+    <dependency>
+      <groupId>javax.persistence</groupId>
+      <artifactId>persistence-api</artifactId>
+    </dependency>
   </dependencies>
 </project>

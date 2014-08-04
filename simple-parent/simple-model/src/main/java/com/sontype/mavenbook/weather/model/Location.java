@@ -11,7 +11,6 @@ import javax.persistence.Id;
 import javax.persistence.OneToMany;
 
 import org.hibernate.annotations.Index;
-import org.hibernate.annotations.IndexColumn;
 
 @Entity
 public class Location {
